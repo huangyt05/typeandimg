@@ -1,5 +1,6 @@
 body{
     background-color: black;
+    margin: 5rem;
 }
 
 main{
@@ -9,9 +10,11 @@ main{
 }
 p{
     color:chartreuse;
+    font-size: 2rem;
 }
-div{
-    width:50vw;
-    height: 20vh;
+
+img{
+    width:30vw;
+    height: 15vh;
     object-fit:cover;
 }
