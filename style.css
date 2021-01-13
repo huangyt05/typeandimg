@@ -4,4 +4,14 @@ body{
 
 main{
     background-color: black;
+    font-family: aviano-future;
+    
+}
+p{
+    color:chartreuse;
+}
+div{
+    width:50vw;
+    height: 20vh;
+    object-fit:cover;
 }
